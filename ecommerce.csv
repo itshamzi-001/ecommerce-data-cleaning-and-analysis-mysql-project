@@ -1,0 +1,501 @@
+order_id,order_date,customer_name,city,product_name,category,quantity,price,total,discount,payment_method,order_status
+1001,2023-05-21,Ayesha Malik,  Lahore,Samsung Galaxy S23,Mobile,2,,,5%,Cash,completed
+1002,2023/09/16,Ayesha Malik ,lhr,HP Pavilion,Laptops,1,152127,152127.0,NULL,Bank Transfer,complited
+1003,05-08-2023,David John,karachi,iPhone 14 Pro,Mobile,two,45758,,NULL,Cash,complited
+1004,23.01.2023,Jane Smith  ,Karachi ,Sony Alpha A7,Cameras,,N/A,,ten percent,Credit Card,Complete
+1005,27-04-2023,Noor Khan ,Multan,Samsung Galaxy S23,Mobile,1,229216,229216.0,,Jazzcash,Completed
+1006,18-04-2023,Emma Watson,Multan,Sony Alpha A7,Cameras,1,,,NULL,Jazzcash,Complete
+1007,2023-01-29,Ali Raza,Karachi ,Lenovo ThinkPad,Laptops,1,N/A,,10%,,refunded
+1008,2023-05-16,Usman Tariq ,  Lahore,Wireless Earbuds,Accessories,2,,,0%,Credit Card,Completed
+1009,25/01/2023,Noor Khan  ,karachi,Power Bank,Accessories,2,169481,338962.0,NULL,,Canceled
+1010,11/10/2023,David John,faislabad,Laptop Bag,Accessories,1,,,NULL,Credit Card,refunded
+1011,2023-09-14,Jane Smith  ,lhr,OnePlus 11,Mobile,,244239,,10%,Jazzcash,Completed
+1012,08/09/2023,Jane Smith,lahore,OnePlus 11,Mobile,1,N/A,,10%,Bank Transfer,completed
+1013,2023/02/05,Ayesha Malik,faislabad,Xiaomi 13,Mobile,2,,,ten percent,Bank Transfer,refunded
+1014,09.06.2023,Emma Watson,karachi,HP Pavilion,Laptops,two,,,0%,Cash,Canceled
+1015,04/01/2023,David John,lhr,HP Pavilion,Laptops,1,65015,65015.0,0%,,Completed
+1016,05.05.2023,Noor Khan ,  Lahore,Asus Vivobook,Laptops,3,54914,,NULL,,Complete
+1017,01.02.2023,Emma Watson  ,Multan,Samsung Galaxy S23,Mobile,two,214870,,10%,,Completed
+1018,08/05/2023,Ayesha Malik,karachi,Fujifilm X-T4,Cameras,3,,,10%,Credit Card,refunded
+1019,20.04.2023,Noor Khan ,Multan,Smart Watch,Accessories,1,N/A,,0%,,Complete
+1020,08-04-2023,John Doe  ,Karachi ,Wireless Earbuds,Accessories,2,,,5%,Cash,Canceled
+1021,2023/01/30,Ali Raza  ,lhr,Wireless Earbuds,Accessories,1,228174,,NULL,Cash,Canceled
+1022,11.02.2023,Jane Smith,Karachi ,Dell Inspiron,Laptops,,,,10%,Jazzcash,refunded
+1023,23-08-2023,Usman Tariq,karachi,Lenovo ThinkPad,Laptops,1,N/A,,ten percent,Credit Card,Canceled
+1024,28/06/2023,Ayesha Malik  ,faislabad,Nikon D3500,Cameras,2,N/A,,ten percent,Bank Transfer,completed
+1025,10-03-2023,Sarah Ahmed ,faislabad,Canon EOS 90D,Cameras,1,238232,238232.0,ten percent,Credit Card,Complete
+1026,2023/05/16,Noor Khan ,lahore,Nikon D3500,Cameras,3,70829,,5%,Jazzcash,Completed
+1027,2023/08/15,Sarah Ahmed  ,lahore,Nikon D3500,Cameras,3,152038,,0%,Bank Transfer,Canceled
+1028,07/03/2023,Emma Watson  ,lhr,Asus Vivobook,Laptops,two,100591,,,Cash,complited
+1029,2023-05-02,David John ,lhr,Wireless Earbuds,Accessories,2,N/A,,0%,Credit Card,Complete
+1030,20.01.2023,Emma Watson,lahore,Xiaomi 13,Mobile,2,N/A,,,Credit Card,refunded
+1031,05-02-2023,Ayesha Malik ,lahore,Sony Alpha A7,Cameras,two,,,5%,Jazzcash,Completed
+1032,2023/02/25,Noor Khan  ,karachi,Canon EOS 90D,Cameras,3,,,NULL,Bank Transfer,Completed
+1033,12/08/2023,Emma Watson ,  Lahore,Canon EOS 90D,Cameras,,,,5%,Jazzcash,Canceled
+1034,2023/06/03,Jane Smith  ,islamabad,Canon EOS 90D,Cameras,two,N/A,,10%,,Complete
+1035,19-10-2023,Emma Watson ,Karachi ,Wireless Earbuds,Accessories,3,148638,445914.0,NULL,,refunded
+1036,28/03/2023,David John,lhr,Asus Vivobook,Laptops,two,,,,Jazzcash,Completed
+1037,13/01/2023,Ali Raza ,  Lahore,HP Pavilion,Laptops,2,,,,Bank Transfer,Completed
+1038,2023-07-24,Ali Raza ,lhr,Smart Watch,Accessories,2,,,10%,Bank Transfer,refunded
+1039,04.03.2023,Ayesha Malik  ,Karachi ,iPhone 14 Pro,Mobile,2,N/A,,NULL,Bank Transfer,Complete
+1040,23.03.2023,Jane Smith  ,Multan,Smart Watch,Accessories,3,72945,218835.0,,Credit Card,complited
+1041,2023-05-27,Ali Raza,islamabad,Power Bank,Accessories,two,N/A,,10%,,Complete
+1042,02.02.2023,John Doe,  Lahore,HP Pavilion,Laptops,3,,,NULL,Bank Transfer,Complete
+1043,02/09/2023,Noor Khan  ,lhr,Xiaomi 13,Mobile,two,N/A,,NULL,Credit Card,complited
+1044,15.01.2023,Sarah Ahmed ,islamabad,Smart Watch,Accessories,two,,,ten percent,Bank Transfer,completed
+1045,12.02.2023,Jane Smith ,Karachi ,Power Bank,Accessories,2,N/A,,10%,,complited
+1046,23.05.2023,Ayesha Malik,Karachi ,Fujifilm X-T4,Cameras,two,223866,,10%,Cash,Complete
+1047,2023-05-07,Ahmed Ali  ,karachi,Samsung Galaxy S23,Mobile,1,167879,,ten percent,Credit Card,refunded
+1048,2023/03/27,Sarah Ahmed ,karachi,Sony Alpha A7,Cameras,,,,ten percent,Cash,complited
+1049,12/04/2023,Jane Smith  ,karachi,Smart Watch,Accessories,,,,ten percent,Cash,complited
+1050,2023/02/05,Ali Raza ,Karachi ,Laptop Bag,Accessories,two,N/A,,,,Complete
+1051,2023/04/01,Ahmed Ali ,faislabad,Asus Vivobook,Laptops,two,,,0%,Credit Card,completed
+1052,05.05.2023,John Doe ,Karachi ,Fujifilm X-T4,Cameras,,,,10%,,Completed
+1053,24-06-2023,Ayesha Malik,karachi,Sony Alpha A7,Cameras,,N/A,,10%,,refunded
+1054,09.09.2023,Emma Watson ,Karachi ,Asus Vivobook,Laptops,1,N/A,,NULL,Bank Transfer,Canceled
+1055,09-10-2023,Jane Smith,karachi,Fujifilm X-T4,Cameras,two,N/A,,,Credit Card,complited
+1056,2023-04-09,Ayesha Malik  ,faislabad,iPhone 14 Pro,Mobile,3,,,5%,Credit Card,complited
+1057,02-04-2023,John Doe,faislabad,Lenovo ThinkPad,Laptops,1,,,,Credit Card,Complete
+1058,2023/01/07,Sarah Ahmed,faislabad,Power Bank,Accessories,two,N/A,,NULL,Cash,completed
+1059,2023/02/07,Jane Smith,lhr,Smart Watch,Accessories,1,44774,44774.0,5%,Bank Transfer,refunded
+1060,19.08.2023,Jane Smith  ,lahore,Asus Vivobook,Laptops,two,,,ten percent,Cash,Completed
+1061,2023-02-11,John Doe ,Multan,Lenovo ThinkPad,Laptops,2,,,,Bank Transfer,refunded
+1062,29-04-2023,Emma Watson ,lhr,Canon EOS 90D,Cameras,two,N/A,,NULL,Cash,Canceled
+1063,2023-05-17,Usman Tariq  ,faislabad,HP Pavilion,Laptops,1,20633,20633.0,NULL,Cash,refunded
+1064,2023/05/20,John Doe ,Karachi ,Fujifilm X-T4,Cameras,,N/A,,ten percent,Jazzcash,completed
+1065,2023/10/22,Usman Tariq,islamabad,iPhone 14 Pro,Mobile,1,,,NULL,Bank Transfer,Complete
+1066,2023/04/03,Ahmed Ali ,  Lahore,Laptop Bag,Accessories,3,N/A,,0%,Jazzcash,Complete
+1067,18.06.2023,Ayesha Malik,Multan,iPhone 14 Pro,Mobile,3,,,5%,Jazzcash,complited
+1068,2023/07/26,John Doe,Karachi ,Canon EOS 90D,Cameras,1,,,ten percent,,Complete
+1069,15-04-2023,Ahmed Ali,lahore,Power Bank,Accessories,,N/A,,,Bank Transfer,Completed
+1070,10/10/2023,Ali Raza ,karachi,Lenovo ThinkPad,Laptops,,111952,,,Credit Card,refunded
+1071,01.08.2023,Noor Khan,islamabad,Sony Alpha A7,Cameras,3,N/A,,5%,Jazzcash,refunded
+1072,02-01-2023,Ahmed Ali,Multan,Sony Alpha A7,Cameras,two,,,ten percent,,complited
+1073,22-08-2023,Emma Watson ,lahore,Fujifilm X-T4,Cameras,2,187845,375690.0,0%,,Complete
+1074,19.03.2023,David John,Multan,Smart Watch,Accessories,1,,,5%,Bank Transfer,refunded
+1075,2023-07-29,Noor Khan  ,karachi,iPhone 14 Pro,Mobile,1,N/A,,0%,Bank Transfer,refunded
+1076,05/10/2023,Jane Smith,karachi,Fujifilm X-T4,Cameras,,22936,,NULL,Cash,Complete
+1077,27-03-2023,Jane Smith ,Karachi ,Xiaomi 13,Mobile,1,N/A,,NULL,Credit Card,Completed
+1078,2023-03-29,Emma Watson ,islamabad,Wireless Earbuds,Accessories,1,N/A,,10%,,Complete
+1079,11/05/2023,Sarah Ahmed,Multan,Fujifilm X-T4,Cameras,3,N/A,,0%,Bank Transfer,complited
+1080,22-08-2023,Noor Khan  ,Karachi ,Laptop Bag,Accessories,2,N/A,,ten percent,Jazzcash,Complete
+1081,22-07-2023,John Doe  ,Multan,Canon EOS 90D,Cameras,1,,,0%,Credit Card,Canceled
+1082,2023/04/08,Sarah Ahmed  ,karachi,Nikon D3500,Cameras,two,,,,Cash,complited
+1083,24-10-2023,Noor Khan,lhr,Power Bank,Accessories,2,N/A,,10%,Bank Transfer,complited
+1084,12.05.2023,Ahmed Ali,islamabad,Nikon D3500,Cameras,two,N/A,,10%,,Canceled
+1085,22/07/2023,Jane Smith  ,  Lahore,Canon EOS 90D,Cameras,two,145659,,,Jazzcash,completed
+1086,2023/01/13,Ali Raza  ,Multan,Asus Vivobook,Laptops,,,,,Jazzcash,Complete
+1087,13/03/2023,Emma Watson  ,islamabad,Power Bank,Accessories,1,N/A,,NULL,,complited
+1088,01/08/2023,Jane Smith,Karachi ,Wireless Earbuds,Accessories,3,N/A,,10%,,refunded
+1089,20-02-2023,Noor Khan ,lhr,Lenovo ThinkPad,Laptops,,,,5%,,completed
+1090,26-01-2023,Ayesha Malik,lhr,Dell Inspiron,Laptops,2,,,10%,Jazzcash,Completed
+1091,2023-03-16,John Doe,lahore,OnePlus 11,Mobile,,70707,,0%,Credit Card,Canceled
+1092,31-03-2023,Ali Raza  ,karachi,Canon EOS 90D,Cameras,1,,,NULL,,complited
+1093,2023-09-15,Ayesha Malik ,Multan,Xiaomi 13,Mobile,,,,,Cash,completed
+1094,07/08/2023,Ali Raza ,islamabad,Smart Watch,Accessories,3,N/A,,5%,Credit Card,complited
+1095,29-09-2023,Ali Raza  ,lhr,Fujifilm X-T4,Cameras,3,,,NULL,,Completed
+1096,21.08.2023,David John  ,faislabad,Laptop Bag,Accessories,3,196263,588789.0,0%,Credit Card,Complete
+1097,16/02/2023,David John,lahore,Power Bank,Accessories,1,118213,118213.0,ten percent,Bank Transfer,Canceled
+1098,30-07-2023,Jane Smith  ,faislabad,Canon EOS 90D,Cameras,3,,,0%,Cash,Canceled
+1099,2023-09-04,Jane Smith  ,lhr,HP Pavilion,Laptops,1,,,NULL,Bank Transfer,Canceled
+1100,2023-01-15,David John,islamabad,OnePlus 11,Mobile,two,N/A,,10%,Bank Transfer,Complete
+1101,14/03/2023,Noor Khan ,Karachi ,Power Bank,Accessories,1,,,10%,Jazzcash,complited
+1102,2023-01-27,Ali Raza ,Multan,Canon EOS 90D,Cameras,2,,,,,refunded
+1103,2023-05-20,Jane Smith  ,Multan,Smart Watch,Accessories,,N/A,,ten percent,Jazzcash,completed
+1104,29/01/2023,Jane Smith ,Karachi ,Asus Vivobook,Laptops,2,84015,168030.0,5%,Cash,refunded
+1105,08.03.2023,David John,  Lahore,Wireless Earbuds,Accessories,,189463,,,Cash,refunded
+1106,09-02-2023,Noor Khan ,karachi,Xiaomi 13,Mobile,,,,NULL,Cash,complited
+1107,05/07/2023,Usman Tariq ,karachi,Asus Vivobook,Laptops,3,226376,,NULL,Jazzcash,Complete
+1108,2023-06-20,Ayesha Malik,Karachi ,Nikon D3500,Cameras,1,,,0%,Credit Card,Completed
+1109,2023-05-12,Ali Raza,Multan,iPhone 14 Pro,Mobile,2,162915,325830.0,NULL,Bank Transfer,Canceled
+1110,2023-06-11,Jane Smith ,lahore,Laptop Bag,Accessories,3,N/A,,0%,Bank Transfer,completed
+1111,20/08/2023,Ali Raza  ,  Lahore,Fujifilm X-T4,Cameras,1,N/A,,NULL,Bank Transfer,Canceled
+1112,2023-10-20,John Doe ,karachi,Xiaomi 13,Mobile,two,N/A,,0%,Cash,Canceled
+1113,07.05.2023,David John ,faislabad,Dell Inspiron,Laptops,3,,,NULL,,complited
+1114,03-02-2023,Jane Smith  ,islamabad,OnePlus 11,Mobile,1,,,0%,Cash,Canceled
+1115,08.06.2023,Jane Smith  ,  Lahore,Lenovo ThinkPad,Laptops,2,,,,Jazzcash,Completed
+1116,18-09-2023,Emma Watson ,Multan,Xiaomi 13,Mobile,1,N/A,,10%,Credit Card,Completed
+1117,01/06/2023,Ayesha Malik,Karachi ,Dell Inspiron,Laptops,,,,ten percent,Credit Card,Canceled
+1118,2023-03-25,John Doe ,Karachi ,Wireless Earbuds,Accessories,,217085,,,Credit Card,refunded
+1119,2023/04/30,Emma Watson ,Multan,Fujifilm X-T4,Cameras,2,N/A,,NULL,Jazzcash,refunded
+1120,2023/04/13,Ahmed Ali ,karachi,Wireless Earbuds,Accessories,2,N/A,,,Bank Transfer,completed
+1121,24-03-2023,Noor Khan,lhr,Canon EOS 90D,Cameras,3,,,NULL,Jazzcash,completed
+1122,2023/07/22,David John,lahore,Power Bank,Accessories,two,N/A,,0%,Cash,Complete
+1123,12/03/2023,Sarah Ahmed  ,Multan,Nikon D3500,Cameras,two,N/A,,NULL,Bank Transfer,completed
+1124,2023-05-12,Noor Khan,faislabad,Samsung Galaxy S23,Mobile,2,,,10%,Jazzcash,completed
+1125,2023/08/03,Ahmed Ali  ,lahore,iPhone 14 Pro,Mobile,3,21464,64392.0,,Bank Transfer,Canceled
+1126,30.05.2023,Noor Khan,karachi,HP Pavilion,Laptops,1,N/A,,ten percent,Jazzcash,completed
+1127,29/08/2023,David John,Karachi ,Xiaomi 13,Mobile,3,N/A,,10%,Cash,Canceled
+1128,23-01-2023,Ahmed Ali  ,Multan,Nikon D3500,Cameras,,,,,Credit Card,Completed
+1129,19-01-2023,David John ,  Lahore,Xiaomi 13,Mobile,2,16483,32966.0,ten percent,,complited
+1130,27-05-2023,Ali Raza ,  Lahore,iPhone 14 Pro,Mobile,1,,,NULL,,refunded
+1131,12.09.2023,Ali Raza  ,  Lahore,Nikon D3500,Cameras,two,,,5%,,Canceled
+1132,14/06/2023,Ahmed Ali  ,  Lahore,Lenovo ThinkPad,Laptops,1,,,10%,,complited
+1133,2023/06/30,John Doe,  Lahore,Power Bank,Accessories,3,,,0%,Bank Transfer,Complete
+1134,2023/03/15,David John ,  Lahore,Dell Inspiron,Laptops,3,14122,,ten percent,Cash,Canceled
+1135,09-07-2023,Ayesha Malik ,  Lahore,Asus Vivobook,Laptops,3,205038,615114.0,0%,Jazzcash,Completed
+1136,06.04.2023,Jane Smith  ,Multan,Samsung Galaxy S23,Mobile,,,,10%,Bank Transfer,complited
+1137,2023-03-04,Ahmed Ali,Karachi ,Wireless Earbuds,Accessories,1,123500,123500.0,,Jazzcash,Complete
+1138,2023-06-03,Ali Raza,islamabad,OnePlus 11,Mobile,2,N/A,,10%,,completed
+1139,2023/08/28,Noor Khan  ,Multan,Sony Alpha A7,Cameras,2,165418,,ten percent,,refunded
+1140,12/06/2023,Sarah Ahmed  ,islamabad,iPhone 14 Pro,Mobile,3,,,10%,,Canceled
+1141,2023-09-23,Emma Watson ,faislabad,Samsung Galaxy S23,Mobile,two,48163,,5%,Jazzcash,Completed
+1142,2023/06/05,Usman Tariq  ,islamabad,Nikon D3500,Cameras,,,,10%,Bank Transfer,Complete
+1143,15/01/2023,Emma Watson  ,  Lahore,Canon EOS 90D,Cameras,1,,,ten percent,Cash,refunded
+1144,2023-09-05,John Doe,Multan,Sony Alpha A7,Cameras,3,N/A,,NULL,,refunded
+1145,15-03-2023,Sarah Ahmed ,karachi,Lenovo ThinkPad,Laptops,two,N/A,,0%,Credit Card,refunded
+1146,2023-08-19,Noor Khan  ,  Lahore,OnePlus 11,Mobile,2,30378,,10%,Credit Card,complited
+1147,23.03.2023,Ahmed Ali,karachi,Nikon D3500,Cameras,,N/A,,NULL,Bank Transfer,refunded
+1148,26-10-2023,Ahmed Ali ,lahore,HP Pavilion,Laptops,1,N/A,,5%,,Completed
+1149,26-07-2023,Emma Watson ,faislabad,Sony Alpha A7,Cameras,1,110010,110010.0,5%,,Canceled
+1150,2023-03-02,David John  ,Karachi ,Laptop Bag,Accessories,1,N/A,,10%,Credit Card,Canceled
+1151,24/01/2023,Ayesha Malik ,islamabad,Power Bank,Accessories,2,N/A,,ten percent,Bank Transfer,Completed
+1152,25.03.2023,Ayesha Malik  ,Multan,Sony Alpha A7,Cameras,,N/A,,,Bank Transfer,complited
+1153,08-07-2023,John Doe  ,Multan,Power Bank,Accessories,1,,,0%,Bank Transfer,Canceled
+1154,26.10.2023,Noor Khan,lhr,Dell Inspiron,Laptops,2,,,5%,Bank Transfer,Complete
+1155,10.01.2023,Emma Watson ,Multan,iPhone 14 Pro,Mobile,two,114780,,,Cash,Complete
+1156,15-10-2023,Sarah Ahmed ,Karachi ,HP Pavilion,Laptops,3,N/A,,ten percent,Jazzcash,Complete
+1157,2023-04-09,Jane Smith ,lhr,Fujifilm X-T4,Cameras,two,N/A,,,,complited
+1158,14-10-2023,Noor Khan ,Karachi ,Laptop Bag,Accessories,two,,,10%,Jazzcash,completed
+1159,27.06.2023,Ayesha Malik ,faislabad,Canon EOS 90D,Cameras,two,N/A,,10%,Cash,Canceled
+1160,2023/01/26,Noor Khan ,Multan,HP Pavilion,Laptops,2,172233,,5%,Credit Card,completed
+1161,01.09.2023,John Doe,lhr,Asus Vivobook,Laptops,2,N/A,,ten percent,Cash,Completed
+1162,19.01.2023,Jane Smith,lahore,Wireless Earbuds,Accessories,3,,,0%,Bank Transfer,Canceled
+1163,26.05.2023,Sarah Ahmed  ,Multan,OnePlus 11,Mobile,,N/A,,0%,Credit Card,completed
+1164,23-08-2023,Jane Smith  ,lhr,Nikon D3500,Cameras,2,,,10%,Bank Transfer,Complete
+1165,21-09-2023,Sarah Ahmed ,Karachi ,Smart Watch,Accessories,1,,,10%,Cash,complited
+1166,17-08-2023,John Doe ,Karachi ,Wireless Earbuds,Accessories,two,,,,Credit Card,completed
+1167,2023-06-07,Jane Smith  ,karachi,Xiaomi 13,Mobile,3,,,,Jazzcash,complited
+1168,10.03.2023,David John ,Multan,HP Pavilion,Laptops,2,,,ten percent,Credit Card,Completed
+1169,28-09-2023,Ayesha Malik  ,lhr,Xiaomi 13,Mobile,1,,,ten percent,Bank Transfer,Completed
+1170,24.09.2023,Ahmed Ali,Multan,Lenovo ThinkPad,Laptops,1,183335,183335.0,5%,,Completed
+1171,16/10/2023,John Doe ,faislabad,Smart Watch,Accessories,,,,5%,Credit Card,Canceled
+1172,05-08-2023,Ali Raza ,lahore,Samsung Galaxy S23,Mobile,1,146862,146862.0,0%,,Completed
+1173,11.07.2023,Ayesha Malik,Karachi ,Asus Vivobook,Laptops,3,N/A,,5%,Credit Card,Canceled
+1174,25/04/2023,Ayesha Malik ,  Lahore,Wireless Earbuds,Accessories,1,N/A,,10%,Credit Card,refunded
+1175,2023-05-22,John Doe,lhr,Nikon D3500,Cameras,1,,,5%,Cash,Canceled
+1176,2023-01-25,Emma Watson,islamabad,Xiaomi 13,Mobile,1,N/A,,ten percent,Jazzcash,Completed
+1177,02-05-2023,Jane Smith ,lahore,Sony Alpha A7,Cameras,2,,,ten percent,Bank Transfer,Complete
+1178,12.10.2023,Ayesha Malik ,  Lahore,Asus Vivobook,Laptops,1,,,NULL,Credit Card,complited
+1179,03.10.2023,Sarah Ahmed ,lahore,Wireless Earbuds,Accessories,2,227649,455298.0,ten percent,,refunded
+1180,05-05-2023,Ahmed Ali ,karachi,Asus Vivobook,Laptops,2,,,ten percent,Credit Card,completed
+1181,21/01/2023,Ayesha Malik,Multan,Fujifilm X-T4,Cameras,2,,,10%,Jazzcash,complited
+1182,08/04/2023,Emma Watson ,lhr,iPhone 14 Pro,Mobile,3,244715,734145.0,ten percent,Jazzcash,complited
+1183,01-10-2023,Ahmed Ali ,karachi,Smart Watch,Accessories,two,N/A,,,,complited
+1184,10.06.2023,John Doe ,  Lahore,Lenovo ThinkPad,Laptops,1,152462,152462.0,0%,Credit Card,Completed
+1185,2023/07/14,David John ,Multan,Nikon D3500,Cameras,2,,,,,refunded
+1186,2023-03-28,Ayesha Malik  ,lahore,Lenovo ThinkPad,Laptops,,133009,,ten percent,Cash,completed
+1187,2023-07-31,Emma Watson  ,Multan,Samsung Galaxy S23,Mobile,2,,,0%,Cash,Canceled
+1188,09/01/2023,Ayesha Malik  ,faislabad,Smart Watch,Accessories,,N/A,,ten percent,Jazzcash,completed
+1189,24/02/2023,Ayesha Malik ,Karachi ,Wireless Earbuds,Accessories,,44032,,0%,,completed
+1190,2023/08/24,Ali Raza  ,lahore,Fujifilm X-T4,Cameras,2,187776,,5%,,refunded
+1191,29/01/2023,David John  ,karachi,Smart Watch,Accessories,2,N/A,,ten percent,Cash,Completed
+1192,19/05/2023,Usman Tariq  ,lahore,Asus Vivobook,Laptops,1,N/A,,10%,Jazzcash,completed
+1193,23/07/2023,Noor Khan  ,Karachi ,HP Pavilion,Laptops,two,,,NULL,Credit Card,Complete
+1194,28/01/2023,Usman Tariq  ,  Lahore,OnePlus 11,Mobile,3,65855,197565.0,0%,Cash,Complete
+1195,2023-09-09,Usman Tariq  ,  Lahore,Fujifilm X-T4,Cameras,two,N/A,,5%,Bank Transfer,complited
+1196,12-02-2023,Sarah Ahmed  ,  Lahore,Dell Inspiron,Laptops,2,,,0%,Jazzcash,completed
+1197,07.06.2023,Ali Raza,  Lahore,Samsung Galaxy S23,Mobile,two,N/A,,NULL,Bank Transfer,Canceled
+1198,14/01/2023,David John ,lahore,Power Bank,Accessories,two,150285,,0%,,refunded
+1199,2023/10/20,Jane Smith ,faislabad,iPhone 14 Pro,Mobile,2,N/A,,NULL,Credit Card,completed
+1200,22.05.2023,Emma Watson  ,Multan,Asus Vivobook,Laptops,two,131938,,ten percent,Bank Transfer,Completed
+1201,11-03-2023,Noor Khan ,Multan,Power Bank,Accessories,1,N/A,,0%,,Complete
+1202,2023/06/14,Noor Khan ,faislabad,Lenovo ThinkPad,Laptops,2,N/A,,,,Canceled
+1203,12-07-2023,Emma Watson  ,islamabad,Lenovo ThinkPad,Laptops,3,100686,302058.0,,Bank Transfer,completed
+1204,13-08-2023,Sarah Ahmed  ,faislabad,Wireless Earbuds,Accessories,1,N/A,,10%,Jazzcash,Complete
+1205,13/07/2023,Ayesha Malik  ,  Lahore,Asus Vivobook,Laptops,3,N/A,,ten percent,Cash,complited
+1206,08-05-2023,Noor Khan ,  Lahore,Samsung Galaxy S23,Mobile,2,,,5%,Cash,completed
+1207,2023/09/19,Ahmed Ali ,  Lahore,Nikon D3500,Cameras,,,,NULL,Bank Transfer,Complete
+1208,13.01.2023,Ali Raza,islamabad,Lenovo ThinkPad,Laptops,1,N/A,,0%,Jazzcash,complited
+1209,24.09.2023,Ahmed Ali ,karachi,Wireless Earbuds,Accessories,two,129823,,0%,Cash,Complete
+1210,25/06/2023,Sarah Ahmed  ,islamabad,Samsung Galaxy S23,Mobile,2,,,0%,Bank Transfer,refunded
+1211,2023-07-27,John Doe  ,lhr,Wireless Earbuds,Accessories,2,,,NULL,Bank Transfer,refunded
+1212,2023-04-20,Ali Raza  ,karachi,Power Bank,Accessories,two,,,ten percent,Credit Card,complited
+1213,23/08/2023,David John  ,  Lahore,Nikon D3500,Cameras,two,N/A,,ten percent,,Canceled
+1214,30.06.2023,Jane Smith  ,karachi,OnePlus 11,Mobile,,,,,Credit Card,complited
+1215,06/06/2023,Noor Khan ,islamabad,iPhone 14 Pro,Mobile,2,,,ten percent,,refunded
+1216,2023-10-03,Sarah Ahmed ,Multan,Asus Vivobook,Laptops,,N/A,,ten percent,Cash,complited
+1217,2023-03-11,Noor Khan  ,Multan,Xiaomi 13,Mobile,3,,,NULL,,refunded
+1218,17/10/2023,Ayesha Malik ,islamabad,Dell Inspiron,Laptops,2,81569,,NULL,Bank Transfer,Complete
+1219,21/10/2023,David John  ,lahore,Power Bank,Accessories,two,,,,,Canceled
+1220,2023-02-22,David John,Multan,Asus Vivobook,Laptops,two,234326,,5%,Credit Card,Completed
+1221,2023/03/26,John Doe  ,Karachi ,Fujifilm X-T4,Cameras,2,210743,421486.0,ten percent,Jazzcash,Canceled
+1222,30-05-2023,Ali Raza,  Lahore,Lenovo ThinkPad,Laptops,,,,5%,Jazzcash,Complete
+1223,2023-05-08,Noor Khan ,islamabad,HP Pavilion,Laptops,two,222181,,ten percent,Jazzcash,Complete
+1224,20/08/2023,David John ,Multan,Smart Watch,Accessories,1,,,0%,Bank Transfer,completed
+1225,03/07/2023,Emma Watson ,faislabad,Xiaomi 13,Mobile,,109258,,0%,Jazzcash,complited
+1226,25/06/2023,Ahmed Ali,karachi,Asus Vivobook,Laptops,1,,,10%,,refunded
+1227,2023-04-14,David John ,karachi,Xiaomi 13,Mobile,two,N/A,,0%,Credit Card,completed
+1228,30.04.2023,Ahmed Ali,islamabad,Laptop Bag,Accessories,1,189470,,ten percent,Credit Card,Canceled
+1229,05-01-2023,Ahmed Ali,lhr,Power Bank,Accessories,1,N/A,,NULL,Cash,Complete
+1230,10-06-2023,Sarah Ahmed  ,islamabad,Samsung Galaxy S23,Mobile,two,N/A,,5%,Bank Transfer,Canceled
+1231,14-08-2023,Noor Khan  ,Multan,iPhone 14 Pro,Mobile,2,,,10%,Cash,completed
+1232,16-07-2023,Ali Raza,faislabad,Dell Inspiron,Laptops,3,87445,,,Cash,Complete
+1233,2023/09/23,John Doe,Multan,Nikon D3500,Cameras,,,,NULL,Cash,Completed
+1234,28/09/2023,Usman Tariq ,Karachi ,Power Bank,Accessories,two,N/A,,ten percent,Credit Card,refunded
+1235,28/10/2023,John Doe ,faislabad,Samsung Galaxy S23,Mobile,1,73730,,,Bank Transfer,refunded
+1236,2023/02/12,Jane Smith,lhr,Smart Watch,Accessories,,166493,,10%,Bank Transfer,complited
+1237,08.06.2023,Noor Khan,Multan,Power Bank,Accessories,2,20179,,ten percent,Bank Transfer,completed
+1238,03/03/2023,David John  ,faislabad,Nikon D3500,Cameras,2,188893,,10%,Jazzcash,Completed
+1239,16-01-2023,Usman Tariq  ,karachi,Canon EOS 90D,Cameras,3,,,NULL,,Canceled
+1240,2023/09/13,Ali Raza  ,karachi,Canon EOS 90D,Cameras,2,101387,,10%,Bank Transfer,completed
+1241,06/05/2023,Sarah Ahmed,  Lahore,Samsung Galaxy S23,Mobile,3,N/A,,10%,Jazzcash,Completed
+1242,19/05/2023,John Doe,lhr,Laptop Bag,Accessories,,102729,,ten percent,Cash,refunded
+1243,25-05-2023,David John,faislabad,Xiaomi 13,Mobile,two,,,ten percent,Jazzcash,Complete
+1244,2023/07/08,Ayesha Malik,islamabad,Asus Vivobook,Laptops,3,207535,622605.0,5%,,completed
+1245,05-01-2023,Jane Smith,lhr,Lenovo ThinkPad,Laptops,1,,,ten percent,Credit Card,refunded
+1246,14-03-2023,Ayesha Malik ,Karachi ,Power Bank,Accessories,1,16508,16508.0,NULL,Cash,Canceled
+1247,21/07/2023,Sarah Ahmed,faislabad,iPhone 14 Pro,Mobile,,153850,,0%,Jazzcash,refunded
+1248,20-08-2023,Usman Tariq,islamabad,Sony Alpha A7,Cameras,2,24578,,5%,Credit Card,refunded
+1249,28/07/2023,Ahmed Ali ,karachi,Laptop Bag,Accessories,,98922,,5%,Credit Card,Complete
+1250,21-04-2023,David John ,lahore,Canon EOS 90D,Cameras,2,,,,Jazzcash,complited
+1251,27.07.2023,Ahmed Ali,islamabad,Dell Inspiron,Laptops,,,,5%,Cash,completed
+1252,12.04.2023,Ali Raza  ,faislabad,HP Pavilion,Laptops,two,,,5%,Cash,completed
+1253,07/03/2023,John Doe,  Lahore,Asus Vivobook,Laptops,two,37119,,,,refunded
+1254,2023-08-07,Ahmed Ali,lahore,Xiaomi 13,Mobile,two,61286,,ten percent,Bank Transfer,Canceled
+1255,13.09.2023,Noor Khan,  Lahore,Lenovo ThinkPad,Laptops,,130575,,10%,Bank Transfer,Completed
+1256,03.07.2023,Usman Tariq  ,Karachi ,Xiaomi 13,Mobile,,N/A,,NULL,Jazzcash,Completed
+1257,23/04/2023,Usman Tariq,islamabad,OnePlus 11,Mobile,two,N/A,,5%,Credit Card,Complete
+1258,01/10/2023,Sarah Ahmed,lhr,Lenovo ThinkPad,Laptops,2,N/A,,ten percent,Jazzcash,Complete
+1259,2023/06/30,Ahmed Ali  ,faislabad,Canon EOS 90D,Cameras,,,,10%,,completed
+1260,2023/04/30,David John  ,lhr,Samsung Galaxy S23,Mobile,2,,,10%,Jazzcash,Complete
+1261,31/01/2023,Ali Raza  ,Karachi ,Lenovo ThinkPad,Laptops,2,,,5%,Jazzcash,Complete
+1262,22-06-2023,Noor Khan  ,Multan,Power Bank,Accessories,two,40769,,,Jazzcash,Completed
+1263,31.03.2023,Sarah Ahmed  ,lahore,Nikon D3500,Cameras,two,,,,Bank Transfer,refunded
+1264,2023/06/12,Ahmed Ali,Karachi ,iPhone 14 Pro,Mobile,2,,,,Cash,Completed
+1265,27/03/2023,Emma Watson  ,karachi,Sony Alpha A7,Cameras,two,122081,,0%,Jazzcash,completed
+1266,17.07.2023,Noor Khan ,  Lahore,Samsung Galaxy S23,Mobile,3,N/A,,5%,,Canceled
+1267,20/08/2023,Ali Raza,Karachi ,HP Pavilion,Laptops,1,82308,82308.0,10%,,Completed
+1268,2023/06/23,Noor Khan  ,islamabad,Samsung Galaxy S23,Mobile,,N/A,,ten percent,,Completed
+1269,2023-06-19,Ayesha Malik ,faislabad,Samsung Galaxy S23,Mobile,2,,,0%,Credit Card,completed
+1270,2023/10/20,Noor Khan,faislabad,Xiaomi 13,Mobile,3,45262,135786.0,,Bank Transfer,refunded
+1271,2023-01-14,Ahmed Ali,faislabad,Dell Inspiron,Laptops,2,N/A,,NULL,,refunded
+1272,06.10.2023,Ahmed Ali,faislabad,Canon EOS 90D,Cameras,2,N/A,,NULL,,complited
+1273,16/10/2023,Ali Raza  ,Karachi ,Lenovo ThinkPad,Laptops,2,,,ten percent,,Canceled
+1274,2023/07/18,Ahmed Ali  ,lhr,Dell Inspiron,Laptops,3,,,NULL,Jazzcash,completed
+1275,2023/09/15,Usman Tariq,karachi,Power Bank,Accessories,,,,NULL,Credit Card,Completed
+1276,06/03/2023,Sarah Ahmed  ,faislabad,HP Pavilion,Laptops,3,,,0%,Cash,completed
+1277,10-10-2023,John Doe  ,  Lahore,Smart Watch,Accessories,two,N/A,,5%,,Completed
+1278,2023/02/24,David John ,faislabad,Dell Inspiron,Laptops,1,N/A,,NULL,,Canceled
+1279,30-03-2023,Noor Khan,  Lahore,Power Bank,Accessories,3,,,0%,Credit Card,completed
+1280,10/07/2023,Ahmed Ali  ,karachi,Laptop Bag,Accessories,two,N/A,,10%,Credit Card,complited
+1281,18.05.2023,Emma Watson ,Multan,Laptop Bag,Accessories,,174228,,ten percent,Jazzcash,completed
+1282,2023/06/09,John Doe,lhr,Dell Inspiron,Laptops,3,,,10%,Cash,Completed
+1283,26-01-2023,Ayesha Malik ,karachi,Xiaomi 13,Mobile,2,N/A,,,Cash,Completed
+1284,2023-08-17,Sarah Ahmed ,karachi,Fujifilm X-T4,Cameras,3,,,0%,Cash,refunded
+1285,2023-10-20,Jane Smith  ,  Lahore,iPhone 14 Pro,Mobile,2,174706,349412.0,ten percent,Cash,Complete
+1286,2023-03-09,Usman Tariq ,faislabad,Xiaomi 13,Mobile,,214941,,NULL,,complited
+1287,22.04.2023,Noor Khan  ,karachi,Laptop Bag,Accessories,two,,,5%,Bank Transfer,Complete
+1288,02/06/2023,David John ,faislabad,Sony Alpha A7,Cameras,3,N/A,,,Jazzcash,Completed
+1289,2023/01/30,John Doe  ,Multan,HP Pavilion,Laptops,3,N/A,,0%,Jazzcash,refunded
+1290,2023/01/19,Emma Watson  ,Multan,Smart Watch,Accessories,,218913,,,Jazzcash,Canceled
+1291,2023-10-13,Jane Smith  ,islamabad,Nikon D3500,Cameras,two,N/A,,,Jazzcash,Complete
+1292,2023-07-01,Usman Tariq ,Multan,iPhone 14 Pro,Mobile,two,N/A,,5%,,completed
+1293,2023/04/10,Jane Smith ,lahore,Xiaomi 13,Mobile,1,,,10%,Credit Card,Completed
+1294,19.10.2023,Ali Raza ,Karachi ,Fujifilm X-T4,Cameras,2,,,,Credit Card,complited
+1295,20-08-2023,Sarah Ahmed ,karachi,Samsung Galaxy S23,Mobile,2,204542,409084.0,10%,Bank Transfer,refunded
+1296,08.08.2023,David John,Karachi ,Smart Watch,Accessories,3,6223,18669.0,ten percent,Credit Card,completed
+1297,26-04-2023,Usman Tariq ,islamabad,iPhone 14 Pro,Mobile,two,38798,,5%,Cash,complited
+1298,2023/09/24,Sarah Ahmed ,Multan,Fujifilm X-T4,Cameras,,N/A,,0%,Credit Card,Completed
+1299,2023-04-27,Ayesha Malik,karachi,Power Bank,Accessories,2,,,0%,Cash,refunded
+1300,25/01/2023,Ahmed Ali ,karachi,Canon EOS 90D,Cameras,1,,,ten percent,Jazzcash,refunded
+1301,05-01-2023,Jane Smith  ,islamabad,HP Pavilion,Laptops,3,178451,535353.0,NULL,Cash,Canceled
+1302,28/02/2023,Jane Smith  ,lhr,OnePlus 11,Mobile,3,,,0%,,complited
+1303,08.10.2023,John Doe,karachi,Dell Inspiron,Laptops,2,N/A,,5%,Bank Transfer,Complete
+1304,2023/02/16,Jane Smith  ,lhr,Wireless Earbuds,Accessories,1,,,NULL,Jazzcash,complited
+1305,2023-02-21,David John ,karachi,Power Bank,Accessories,1,N/A,,5%,Cash,completed
+1306,18-06-2023,Ali Raza ,Karachi ,HP Pavilion,Laptops,3,N/A,,10%,Cash,refunded
+1307,20.05.2023,Sarah Ahmed,islamabad,Smart Watch,Accessories,3,N/A,,,Cash,Completed
+1308,2023/09/05,David John  ,lahore,Xiaomi 13,Mobile,3,,,,Credit Card,refunded
+1309,30.07.2023,John Doe  ,lhr,Power Bank,Accessories,1,N/A,,,Jazzcash,Canceled
+1310,08.05.2023,Sarah Ahmed  ,lahore,Xiaomi 13,Mobile,two,,,5%,Credit Card,Canceled
+1311,26/03/2023,Jane Smith,lhr,Smart Watch,Accessories,3,89052,267156.0,ten percent,,refunded
+1312,24.08.2023,Ahmed Ali ,karachi,Dell Inspiron,Laptops,,122466,,NULL,Cash,completed
+1313,2023/01/19,Usman Tariq  ,faislabad,Smart Watch,Accessories,,5044,,ten percent,Bank Transfer,Completed
+1314,06/07/2023,Usman Tariq  ,Multan,Laptop Bag,Accessories,2,N/A,,,Jazzcash,Complete
+1315,2023-02-19,Jane Smith  ,Karachi ,Power Bank,Accessories,1,N/A,,,Cash,completed
+1316,13.03.2023,Ali Raza ,lhr,Asus Vivobook,Laptops,1,,,NULL,Credit Card,Complete
+1317,01/08/2023,Usman Tariq  ,islamabad,Canon EOS 90D,Cameras,,N/A,,NULL,Cash,Canceled
+1318,27.10.2023,Sarah Ahmed  ,islamabad,Xiaomi 13,Mobile,,209755,,5%,,Complete
+1319,2023/08/03,Jane Smith ,islamabad,Fujifilm X-T4,Cameras,2,N/A,,10%,,Canceled
+1320,2023-10-11,David John  ,islamabad,Sony Alpha A7,Cameras,2,,,,Credit Card,Canceled
+1321,2023/06/30,Noor Khan  ,faislabad,Canon EOS 90D,Cameras,3,,,NULL,Cash,Canceled
+1322,2023-07-15,Sarah Ahmed ,faislabad,Samsung Galaxy S23,Mobile,1,180703,,10%,Cash,Complete
+1323,05/10/2023,Ayesha Malik,  Lahore,Nikon D3500,Cameras,two,N/A,,10%,Bank Transfer,Complete
+1324,15.07.2023,Ayesha Malik,lahore,Canon EOS 90D,Cameras,3,,,,Jazzcash,Completed
+1325,2023/07/08,Emma Watson ,Multan,Wireless Earbuds,Accessories,,,,10%,Cash,Completed
+1326,13/07/2023,Sarah Ahmed  ,faislabad,Dell Inspiron,Laptops,3,,,5%,Jazzcash,refunded
+1327,20-03-2023,Jane Smith ,Karachi ,Dell Inspiron,Laptops,,,,5%,Jazzcash,Canceled
+1328,24/09/2023,Noor Khan,Karachi ,HP Pavilion,Laptops,,N/A,,10%,Credit Card,Complete
+1329,04-07-2023,Ayesha Malik  ,lahore,Sony Alpha A7,Cameras,2,,,5%,Jazzcash,refunded
+1330,21-01-2023,Ayesha Malik  ,faislabad,HP Pavilion,Laptops,3,245106,735318.0,5%,Bank Transfer,complited
+1331,23-01-2023,Ali Raza,lahore,Smart Watch,Accessories,2,,,,Cash,Completed
+1332,2023-02-23,Noor Khan  ,karachi,Asus Vivobook,Laptops,,,,,Credit Card,completed
+1333,20/01/2023,Ayesha Malik,lhr,Laptop Bag,Accessories,1,19226,19226.0,0%,,refunded
+1334,10-08-2023,John Doe  ,karachi,Smart Watch,Accessories,1,,,,Bank Transfer,completed
+1335,15/09/2023,Ali Raza ,Multan,OnePlus 11,Mobile,two,,,NULL,,Complete
+1336,2023/03/22,Ayesha Malik ,islamabad,Xiaomi 13,Mobile,2,,,0%,Jazzcash,completed
+1337,22/01/2023,Ali Raza ,lhr,Dell Inspiron,Laptops,,N/A,,,Jazzcash,Completed
+1338,2023-03-24,Sarah Ahmed  ,lahore,Wireless Earbuds,Accessories,2,N/A,,ten percent,,Complete
+1339,04-02-2023,David John ,islamabad,OnePlus 11,Mobile,1,,,,Credit Card,completed
+1340,10-04-2023,Jane Smith  ,islamabad,Canon EOS 90D,Cameras,3,N/A,,ten percent,Bank Transfer,complited
+1341,28/03/2023,Noor Khan ,Karachi ,Fujifilm X-T4,Cameras,two,69533,,10%,Jazzcash,refunded
+1342,03-07-2023,Usman Tariq,faislabad,Smart Watch,Accessories,3,149617,,10%,Bank Transfer,Completed
+1343,08/02/2023,Usman Tariq ,lhr,Canon EOS 90D,Cameras,,170577,,5%,Bank Transfer,complited
+1344,07.07.2023,Jane Smith,Multan,Wireless Earbuds,Accessories,2,,,ten percent,Bank Transfer,completed
+1345,15/09/2023,Ayesha Malik,Multan,Laptop Bag,Accessories,2,,,10%,Credit Card,Canceled
+1346,03/07/2023,Jane Smith ,lhr,Asus Vivobook,Laptops,2,N/A,,5%,Credit Card,Canceled
+1347,29.08.2023,Ayesha Malik  ,faislabad,Fujifilm X-T4,Cameras,1,,,,Jazzcash,Canceled
+1348,13-07-2023,Noor Khan,  Lahore,Asus Vivobook,Laptops,,176268,,0%,Jazzcash,refunded
+1349,2023-09-14,Jane Smith,islamabad,Power Bank,Accessories,3,48412,,10%,Credit Card,complited
+1350,01-08-2023,Emma Watson  ,islamabad,iPhone 14 Pro,Mobile,1,,,,,completed
+1351,2023/03/07,John Doe  ,islamabad,Dell Inspiron,Laptops,,47239,,5%,Credit Card,complited
+1352,16/10/2023,Ahmed Ali ,islamabad,Asus Vivobook,Laptops,two,27478,,10%,,Canceled
+1353,19-09-2023,Ahmed Ali  ,karachi,HP Pavilion,Laptops,2,,,10%,,refunded
+1354,2023-01-09,Sarah Ahmed  ,karachi,Dell Inspiron,Laptops,,,,10%,,Canceled
+1355,17.02.2023,John Doe  ,  Lahore,Samsung Galaxy S23,Mobile,2,,,ten percent,,complited
+1356,28.04.2023,Usman Tariq,  Lahore,Xiaomi 13,Mobile,3,,,10%,Jazzcash,refunded
+1357,2023/05/26,John Doe  ,karachi,Dell Inspiron,Laptops,,N/A,,ten percent,Cash,refunded
+1358,29-07-2023,Jane Smith ,  Lahore,Lenovo ThinkPad,Laptops,1,N/A,,ten percent,Jazzcash,Canceled
+1359,15.04.2023,David John  ,Multan,Fujifilm X-T4,Cameras,,,,0%,Jazzcash,Canceled
+1360,12/03/2023,Ali Raza,  Lahore,Fujifilm X-T4,Cameras,2,,,0%,Bank Transfer,Canceled
+1361,19/07/2023,Usman Tariq ,karachi,iPhone 14 Pro,Mobile,1,220811,220811.0,5%,Jazzcash,Completed
+1362,20.01.2023,Usman Tariq,islamabad,Canon EOS 90D,Cameras,3,,,,,refunded
+1363,23-09-2023,Emma Watson  ,islamabad,iPhone 14 Pro,Mobile,2,,,,Cash,complited
+1364,22/03/2023,Noor Khan ,lhr,Dell Inspiron,Laptops,two,N/A,,ten percent,Cash,Complete
+1365,09-10-2023,Jane Smith,lhr,Samsung Galaxy S23,Mobile,,,,NULL,,Canceled
+1366,31.03.2023,Jane Smith ,karachi,OnePlus 11,Mobile,,,,ten percent,Jazzcash,Canceled
+1367,2023/07/13,Ahmed Ali  ,Multan,Fujifilm X-T4,Cameras,3,206842,620526.0,ten percent,Cash,refunded
+1368,04.02.2023,David John ,Karachi ,OnePlus 11,Mobile,2,,,ten percent,Bank Transfer,completed
+1369,28/05/2023,Ali Raza  ,islamabad,Nikon D3500,Cameras,3,,,NULL,Jazzcash,complited
+1370,2023-04-04,Emma Watson ,lhr,Lenovo ThinkPad,Laptops,3,198229,,10%,Credit Card,Completed
+1371,24/02/2023,John Doe  ,lahore,Nikon D3500,Cameras,1,,,NULL,Jazzcash,Canceled
+1372,22-10-2023,Emma Watson  ,islamabad,Fujifilm X-T4,Cameras,3,,,5%,Bank Transfer,refunded
+1373,15-09-2023,Ahmed Ali,Multan,Power Bank,Accessories,3,,,0%,Cash,completed
+1374,25/10/2023,Sarah Ahmed  ,faislabad,Asus Vivobook,Laptops,two,,,10%,Jazzcash,refunded
+1375,05.04.2023,David John ,  Lahore,Sony Alpha A7,Cameras,3,N/A,,0%,,Completed
+1376,21-02-2023,Emma Watson,islamabad,HP Pavilion,Laptops,2,N/A,,NULL,Cash,Completed
+1377,2023/03/10,Jane Smith ,lahore,Smart Watch,Accessories,,N/A,,NULL,Cash,Complete
+1378,21-04-2023,David John ,Karachi ,Dell Inspiron,Laptops,3,,,0%,Bank Transfer,Canceled
+1379,11.01.2023,Emma Watson  ,islamabad,Sony Alpha A7,Cameras,1,,,0%,Jazzcash,complited
+1380,10.02.2023,Sarah Ahmed,Karachi ,Smart Watch,Accessories,,N/A,,NULL,Bank Transfer,Canceled
+1381,2023-02-10,Jane Smith  ,faislabad,Power Bank,Accessories,two,N/A,,ten percent,,complited
+1382,2023/10/28,John Doe,lhr,Laptop Bag,Accessories,3,113524,,,Jazzcash,Complete
+1383,27.03.2023,Ahmed Ali  ,lahore,iPhone 14 Pro,Mobile,1,30048,30048.0,5%,,Canceled
+1384,2023/05/15,Noor Khan ,lhr,Samsung Galaxy S23,Mobile,2,,,10%,Jazzcash,refunded
+1385,2023-09-27,David John ,Multan,HP Pavilion,Laptops,1,,,ten percent,Jazzcash,Canceled
+1386,2023-10-04,Usman Tariq ,faislabad,Wireless Earbuds,Accessories,,N/A,,0%,,Canceled
+1387,15-08-2023,John Doe,islamabad,Dell Inspiron,Laptops,two,N/A,,0%,Jazzcash,refunded
+1388,02-09-2023,Usman Tariq,lahore,Xiaomi 13,Mobile,1,N/A,,ten percent,Jazzcash,Completed
+1389,2023-07-22,Noor Khan,faislabad,Smart Watch,Accessories,2,,,5%,,Complete
+1390,2023/05/26,Sarah Ahmed,faislabad,Lenovo ThinkPad,Laptops,two,113240,,5%,,Canceled
+1391,2023-09-09,Ayesha Malik,islamabad,Laptop Bag,Accessories,two,10084,,5%,Jazzcash,complited
+1392,2023-01-05,David John ,faislabad,Asus Vivobook,Laptops,1,44500,44500.0,NULL,Jazzcash,refunded
+1393,2023-02-11,Ahmed Ali,lhr,OnePlus 11,Mobile,1,N/A,,0%,,completed
+1394,17.07.2023,Ali Raza  ,lhr,iPhone 14 Pro,Mobile,2,198362,,NULL,,Complete
+1395,23/03/2023,Jane Smith,Karachi ,Sony Alpha A7,Cameras,,141557,,5%,Credit Card,completed
+1396,16/06/2023,Noor Khan,lahore,Asus Vivobook,Laptops,2,N/A,,5%,Bank Transfer,Complete
+1397,10/07/2023,Usman Tariq ,lahore,Wireless Earbuds,Accessories,2,N/A,,5%,Jazzcash,Complete
+1398,06.03.2023,David John ,lhr,Dell Inspiron,Laptops,2,,,5%,,complited
+1399,21.01.2023,Ahmed Ali,islamabad,Lenovo ThinkPad,Laptops,3,N/A,,ten percent,Jazzcash,complited
+1400,2023-10-11,Jane Smith  ,Karachi ,Laptop Bag,Accessories,1,144234,144234.0,NULL,Cash,Complete
+1401,2023/01/10,Ali Raza  ,  Lahore,Wireless Earbuds,Accessories,two,,,10%,Bank Transfer,Complete
+1402,25-05-2023,Ayesha Malik  ,karachi,Wireless Earbuds,Accessories,3,N/A,,5%,Credit Card,Completed
+1403,24.02.2023,Noor Khan  ,Multan,iPhone 14 Pro,Mobile,2,30887,61774.0,ten percent,Bank Transfer,Complete
+1404,2023-07-07,Emma Watson  ,Multan,Canon EOS 90D,Cameras,,193178,,5%,,Complete
+1405,13.10.2023,Usman Tariq ,lahore,OnePlus 11,Mobile,two,,,,Cash,complited
+1406,23/09/2023,Emma Watson,lhr,iPhone 14 Pro,Mobile,1,195099,195099.0,ten percent,Credit Card,Canceled
+1407,23-10-2023,Ali Raza,islamabad,Power Bank,Accessories,3,,,ten percent,,Canceled
+1408,2023/10/01,Ayesha Malik ,Karachi ,Nikon D3500,Cameras,3,N/A,,NULL,,Complete
+1409,2023/10/16,Jane Smith ,Multan,Nikon D3500,Cameras,2,,,NULL,,completed
+1410,2023/01/09,Emma Watson,Karachi ,OnePlus 11,Mobile,2,N/A,,5%,Jazzcash,Canceled
+1411,20.01.2023,Usman Tariq,lhr,Dell Inspiron,Laptops,two,45922,,0%,Jazzcash,completed
+1412,09-02-2023,Usman Tariq,faislabad,Wireless Earbuds,Accessories,3,N/A,,5%,Bank Transfer,refunded
+1413,21-06-2023,Emma Watson  ,lahore,Samsung Galaxy S23,Mobile,3,114188,342564.0,,,completed
+1414,2023/06/13,Emma Watson,lahore,Canon EOS 90D,Cameras,,N/A,,,,refunded
+1415,10-08-2023,Ahmed Ali  ,lahore,iPhone 14 Pro,Mobile,3,43800,131400.0,ten percent,,complited
+1416,14.09.2023,Emma Watson ,  Lahore,Xiaomi 13,Mobile,2,204762,409524.0,,Bank Transfer,Completed
+1417,06-02-2023,Ali Raza,  Lahore,HP Pavilion,Laptops,3,,,NULL,Jazzcash,complited
+1418,2023/06/26,David John  ,Multan,Lenovo ThinkPad,Laptops,1,N/A,,ten percent,Credit Card,refunded
+1419,13-04-2023,Ali Raza  ,lahore,iPhone 14 Pro,Mobile,2,,,10%,Bank Transfer,Completed
+1420,25/06/2023,Emma Watson  ,lhr,Canon EOS 90D,Cameras,two,N/A,,10%,Bank Transfer,Canceled
+1421,14/03/2023,Jane Smith,lahore,Fujifilm X-T4,Cameras,3,,,0%,Credit Card,Complete
+1422,27/08/2023,David John,lahore,Canon EOS 90D,Cameras,1,,,0%,,Completed
+1423,11.06.2023,Ayesha Malik ,lahore,Power Bank,Accessories,,144345,,5%,Credit Card,Canceled
+1424,08.09.2023,David John  ,faislabad,Sony Alpha A7,Cameras,2,N/A,,10%,Bank Transfer,complited
+1425,18/07/2023,Noor Khan  ,islamabad,OnePlus 11,Mobile,,78451,,5%,,Canceled
+1426,2023/05/04,David John ,islamabad,Asus Vivobook,Laptops,2,N/A,,10%,Credit Card,Canceled
+1427,2023/06/08,Usman Tariq,Karachi ,HP Pavilion,Laptops,2,117738,235476.0,5%,Bank Transfer,Canceled
+1428,2023-06-12,Noor Khan ,faislabad,iPhone 14 Pro,Mobile,1,N/A,,NULL,Jazzcash,Completed
+1429,2023-03-09,Usman Tariq  ,lhr,Dell Inspiron,Laptops,1,,,ten percent,Credit Card,Completed
+1430,10.02.2023,David John,  Lahore,OnePlus 11,Mobile,2,,,NULL,,Completed
+1431,26/04/2023,Noor Khan,lhr,HP Pavilion,Laptops,3,205419,616257.0,10%,Cash,Completed
+1432,16.06.2023,Usman Tariq  ,  Lahore,Smart Watch,Accessories,2,N/A,,,Jazzcash,refunded
+1433,20.08.2023,Noor Khan  ,lahore,Samsung Galaxy S23,Mobile,1,235104,235104.0,ten percent,,Canceled
+1434,30.05.2023,Jane Smith ,islamabad,iPhone 14 Pro,Mobile,3,N/A,,NULL,Jazzcash,Canceled
+1435,26.08.2023,Usman Tariq  ,islamabad,iPhone 14 Pro,Mobile,1,,,NULL,,complited
+1436,02.04.2023,Ahmed Ali,faislabad,Power Bank,Accessories,,,,0%,Credit Card,Complete
+1437,28.02.2023,Ayesha Malik  ,islamabad,Samsung Galaxy S23,Mobile,two,,,NULL,Bank Transfer,refunded
+1438,2023/06/21,John Doe ,faislabad,iPhone 14 Pro,Mobile,2,47499,,0%,,complited
+1439,2023-03-09,Ahmed Ali ,lahore,Dell Inspiron,Laptops,1,N/A,,ten percent,,Completed
+1440,21.08.2023,Emma Watson  ,faislabad,Asus Vivobook,Laptops,3,,,ten percent,Bank Transfer,Completed
+1441,17/03/2023,Usman Tariq  ,faislabad,iPhone 14 Pro,Mobile,two,14626,,0%,Cash,completed
+1442,2023-04-02,Usman Tariq  ,islamabad,Xiaomi 13,Mobile,two,,,NULL,Bank Transfer,complited
+1443,03-06-2023,Noor Khan  ,karachi,Samsung Galaxy S23,Mobile,two,N/A,,0%,,Completed
+1444,2023/06/18,Usman Tariq,karachi,OnePlus 11,Mobile,3,142532,427596.0,ten percent,Bank Transfer,completed
+1445,2023/08/07,Usman Tariq ,islamabad,Laptop Bag,Accessories,two,,,ten percent,Bank Transfer,refunded
+1446,2023/04/03,John Doe,lahore,Smart Watch,Accessories,2,N/A,,NULL,Cash,Complete
+1447,31/07/2023,Emma Watson,lhr,Asus Vivobook,Laptops,two,,,,Jazzcash,complited
+1448,2023/06/03,David John ,  Lahore,OnePlus 11,Mobile,,89914,,,Bank Transfer,Canceled
+1449,10-04-2023,Ahmed Ali,islamabad,iPhone 14 Pro,Mobile,two,,,NULL,Credit Card,Complete
+1450,25.08.2023,David John  ,lahore,Laptop Bag,Accessories,1,,,10%,Bank Transfer,Complete
+1451,2023-02-03,Noor Khan  ,islamabad,Sony Alpha A7,Cameras,two,225394,,ten percent,Bank Transfer,refunded
+1452,07-06-2023,Emma Watson ,Multan,Dell Inspiron,Laptops,1,N/A,,0%,Credit Card,Canceled
+1453,27-02-2023,Ahmed Ali  ,lahore,Nikon D3500,Cameras,1,208893,208893.0,NULL,Bank Transfer,Completed
+1454,2023/09/05,Ali Raza  ,islamabad,Lenovo ThinkPad,Laptops,two,N/A,,10%,Cash,refunded
+1455,03-01-2023,David John ,lahore,Power Bank,Accessories,1,,,5%,Bank Transfer,Complete
+1456,23-10-2023,Jane Smith  ,Karachi ,Canon EOS 90D,Cameras,2,89116,,NULL,Cash,complited
+1457,21/05/2023,Emma Watson  ,Karachi ,HP Pavilion,Laptops,1,,,ten percent,Jazzcash,complited
+1458,2023-10-21,David John  ,Multan,Lenovo ThinkPad,Laptops,2,N/A,,5%,Credit Card,completed
+1459,24.02.2023,Usman Tariq  ,Multan,Power Bank,Accessories,1,N/A,,ten percent,Jazzcash,complited
+1460,01/10/2023,Ahmed Ali,Multan,Nikon D3500,Cameras,3,153842,,0%,,refunded
+1461,2023/03/15,David John ,Multan,HP Pavilion,Laptops,two,N/A,,NULL,Cash,completed
+1462,29.06.2023,David John  ,islamabad,Power Bank,Accessories,3,226712,,ten percent,Cash,refunded
+1463,12/10/2023,Noor Khan,lhr,OnePlus 11,Mobile,two,N/A,,ten percent,Credit Card,refunded
+1464,2023-06-24,David John  ,lhr,Power Bank,Accessories,,N/A,,10%,Cash,Complete
+1465,26-08-2023,Noor Khan,karachi,Power Bank,Accessories,,N/A,,,Bank Transfer,refunded
+1466,01/02/2023,John Doe,islamabad,Fujifilm X-T4,Cameras,2,219180,438360.0,NULL,Bank Transfer,complited
+1467,2023-04-11,Jane Smith ,Karachi ,Smart Watch,Accessories,two,,,5%,Bank Transfer,completed
+1468,31/05/2023,John Doe  ,Karachi ,Wireless Earbuds,Accessories,two,,,5%,Jazzcash,completed
+1469,21-07-2023,Emma Watson  ,islamabad,Asus Vivobook,Laptops,3,N/A,,NULL,Credit Card,Completed
+1470,2023-08-02,John Doe,lahore,Laptop Bag,Accessories,two,,,10%,,Complete
+1471,2023-02-13,Usman Tariq ,islamabad,Wireless Earbuds,Accessories,3,N/A,,NULL,Bank Transfer,refunded
+1472,2023-07-01,Ahmed Ali  ,lhr,Smart Watch,Accessories,2,,,,Bank Transfer,complited
+1473,18/01/2023,Usman Tariq ,karachi,Laptop Bag,Accessories,,,,10%,Bank Transfer,complited
+1474,2023/09/25,Ali Raza  ,faislabad,Power Bank,Accessories,1,N/A,,ten percent,Cash,complited
+1475,2023/08/21,David John ,faislabad,Xiaomi 13,Mobile,3,,,10%,Cash,Complete
+1476,01.02.2023,Jane Smith  ,lahore,Sony Alpha A7,Cameras,,,,0%,,completed
+1477,23-05-2023,Jane Smith,karachi,Dell Inspiron,Laptops,2,N/A,,ten percent,Credit Card,Canceled
+1478,2023-07-09,Sarah Ahmed  ,lahore,Asus Vivobook,Laptops,two,,,0%,Cash,Completed
+1479,31.07.2023,Sarah Ahmed,Karachi ,Asus Vivobook,Laptops,2,N/A,,5%,Jazzcash,completed
+1480,26.08.2023,Ayesha Malik,  Lahore,iPhone 14 Pro,Mobile,3,N/A,,,,refunded
+1481,29.09.2023,David John  ,lahore,Nikon D3500,Cameras,1,N/A,,5%,Bank Transfer,Complete
+1482,20-05-2023,Usman Tariq ,Multan,Fujifilm X-T4,Cameras,two,75015,,,Credit Card,Complete
+1483,03-04-2023,Ali Raza,  Lahore,Lenovo ThinkPad,Laptops,,,,5%,Bank Transfer,completed
+1484,23-04-2023,Ali Raza,lhr,Laptop Bag,Accessories,two,55614,,ten percent,Cash,Complete
+1485,08.03.2023,Sarah Ahmed ,faislabad,Samsung Galaxy S23,Mobile,,215554,,NULL,Cash,Complete
+1486,07-08-2023,John Doe ,  Lahore,Laptop Bag,Accessories,two,47458,,0%,Cash,complited
+1487,14/08/2023,Sarah Ahmed  ,Multan,Nikon D3500,Cameras,3,248423,745269.0,5%,Credit Card,Canceled
+1488,24.02.2023,Usman Tariq  ,faislabad,Wireless Earbuds,Accessories,two,32076,,NULL,Cash,refunded
+1489,20.01.2023,Noor Khan  ,lahore,Dell Inspiron,Laptops,two,,,ten percent,,refunded
+1490,2023/02/05,Ahmed Ali,Karachi ,Smart Watch,Accessories,2,N/A,,0%,Jazzcash,refunded
+1491,2023/07/07,Jane Smith  ,lhr,Samsung Galaxy S23,Mobile,two,N/A,,10%,Bank Transfer,completed
+1492,03.06.2023,Ali Raza  ,Multan,Wireless Earbuds,Accessories,1,,,,Credit Card,Completed
+1493,2023/01/13,Ayesha Malik  ,faislabad,iPhone 14 Pro,Mobile,2,N/A,,NULL,Bank Transfer,refunded
+1494,23/06/2023,Ali Raza,Multan,Samsung Galaxy S23,Mobile,two,,,,Bank Transfer,Completed
+1495,2023-01-19,Usman Tariq,lhr,Dell Inspiron,Laptops,3,176398,529194.0,,Credit Card,completed
+1496,07/06/2023,Ali Raza,karachi,Dell Inspiron,Laptops,3,165229,495687.0,NULL,Bank Transfer,Canceled
+1497,14.04.2023,David John,islamabad,Dell Inspiron,Laptops,two,,,0%,Credit Card,completed
+1498,02/02/2023,David John  ,islamabad,Lenovo ThinkPad,Laptops,two,N/A,,NULL,Credit Card,Canceled
+1499,2023/02/21,Ahmed Ali,lahore,iPhone 14 Pro,Mobile,3,208859,,5%,Credit Card,completed
+1500,2023-09-01,Ahmed Ali ,lhr,Fujifilm X-T4,Cameras,2,,,10%,Bank Transfer,Complete
